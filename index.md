@@ -1,5 +1,5 @@
 ---
-title: #NPOFailConf
+title: Home
 layout: default
 ---
 
@@ -45,3 +45,9 @@ However, we are not representing our organisations. We are running the **#NPOFai
 We believe that the greater the thing we’re trying to accomplish, the greater the risk of failure. In order to do great things, it’s important to be able to acknowledge failure as part of the process. Failure is inevitable, but by not acknowledging it, we create an environment of lies where no-one can learn from the failures, and an environment of fear where nothing great can ever be achieved. 
 
 The **#NPOFailConf** offers a safe environment among our non-profit peers, where we can talk about our failures, openly, honestly and without judgement.
+
+## Contact us
+
+To reach the team, please email [info@npofail.org](mailto:info@npofail.org).
+
+Find us on Twitter at [@npofail](http://twitter.com/npofail).
