@@ -36,9 +36,9 @@ We will open discussion to the floor – under Chatham House rules, of course! �
 
 The **#NPOFailConf** idea came about when Michelle Matthews read [this article by Jason Norwood-Young](http://www.dailymaverick.co.za/opinionista/2014-08-29-what-ngos-can-learn-from-start-ups-about-failure/).
 
-*	Jason Norwood-Young is Data Journalism Activist at Code4SA and recovering entrepreneur.
+*	Jason Norwood-Young is Data Journalism Activist at Code4SA.
 *	Michelle Matthews is Content Manager at CSI consultancy, Trialogue.
-*	Alex O’Donaghue is Development Co-ordinator at Inyathelo.
+*	Alex O’Donoghue is a development coordinator at a large Cape Town non-profit.
 
 However, we are not representing our organisations. We are running the **#NPOFailConf** as individuals, volunteering our time and energy to create this space.
 
