@@ -4,6 +4,7 @@ layout: default
 ---
 
 > Failure happens. Big fails, small fails, and often a bunch of miniscule failures leading to a gigantic disaster. And it’s okay.
+{:.shout}
 
 If you’re trying to do big things, to make a difference in the world, you’re bound to fail some – if not most – of the time. 
 
