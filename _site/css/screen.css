@@ -20,6 +20,11 @@ body {
 	margin: 1em auto 2em auto;
 	padding: 0.3em;
 }
+#content {
+	clear: both;
+	border-top: 1px solid #f2f2f2;
+	padding: 0.5em 0 0 0;
+}
 #footer {
 	min-height: 2em;
 	border-top: 1px solid #f2f2f2;
@@ -33,9 +38,7 @@ body {
  */
 
 #nav {
-	min-height: 2em;
 	border-top: 1px solid #f2f2f2;
-	border-bottom: 1px solid #f2f2f2;
 	padding: 0.5em 0 0 0;
 }
 #nav ul {
@@ -47,6 +50,7 @@ body {
 	display: block;
 	float: left;
 	margin: 0 1em 0 0;
+	min-height: 2em;
 }
 #nav a {
 	text-decoration: none;
