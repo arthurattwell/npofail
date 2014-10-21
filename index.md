@@ -29,7 +29,7 @@ No donors. No partners. No interns. No notes or reports or commitments or output
 *	*9am*: Welcome and introduction by Jason Norwood-Young 
 *	*9.15am*: Speaker: David Harrison, DG Murray Trust (former CEO of loveLife)
 *	*9.40am*: Speaker: Jillian Reilly, Troublemakers.co
-*	*10am*: Panel discussion: Dom Marshall-Smith, Jason Norwood-Young, AN Other
+*	*10am*: Panel discussion: Dom Marshall-Smith, Jason Norwood-Young, Soraya Solomon (NICRO CEO)
 
 We will open discussion to the floor – under Chatham House rules, of course! – and wrap up by noon.
 
